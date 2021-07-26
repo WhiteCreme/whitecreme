@@ -3,7 +3,9 @@
 <!--
 **WhiteCreme/whitecreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi I'm Sang Cheon, an aspiring Data Scientist and Statistics Enthusiast.  Apart from that, I love learning new technologies and honing my problem solving skills. 
+
+**More About Me : **
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
